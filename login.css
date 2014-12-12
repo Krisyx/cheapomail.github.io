@@ -1,0 +1,38 @@
+body{
+    background-image:url(http://www.tollimo.com//bg-images/wallpaper-1201961.jpg);
+    background-repeat:no-repeat;
+   
+}
+
+div{
+    border:2px solid white;
+    background-color:white;
+    opacity: 0.85;
+    width: 37%;
+    height:320px;
+    padding: 20px 20px 20px 20px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    top:250px;
+    position:relative;
+
+}
+input{
+    width:350px;
+    height:25px;
+}
+button{
+    width:350px;
+    height:45px;
+    background-color: black;
+    border-radius:10px;
+    color:white;
+    
+}
+h1{
+    color:black;
+	font-family:"Forte";
+    font-size:55px;
+
+}

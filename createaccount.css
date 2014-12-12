@@ -1,0 +1,90 @@
+body{
+    background-image:url(https://clickmatix.files.wordpress.com/2014/11/email.jpg);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+.border{
+    border: 5px solid black;
+    top:-10px;
+    background-color: black;
+    height:90px;
+    width:101%;
+    position:relative;
+    left:-8px;
+    right:-100px;
+    text-align:right;
+    color:Ivory;
+}
+h1{
+    text-align:left;
+    font-family:"Forte";
+    font-size:50px;
+    border: 10px;
+    top:-20px;
+    position:relative;
+    text-align:left;
+}
+
+
+
+form{
+    border: 2px solid white;
+    border-radius:10px;
+    float:right;
+    position:relative;
+    padding:20px 20px 20px 20px;
+    background-color:white;
+    opacity:.7;
+    height:355px;
+    right: 40px;
+    
+}
+
+button{
+    width:180px;
+    height:45px;
+    background-color: black;
+    border-radius:10px;
+    color:white;
+    bottom:-40px;
+    position:relative;
+    
+}
+
+
+#user{
+    width: 70%;
+    height:5%;
+    
+}
+
+#pass{
+    width: 70%;
+    height:5%;
+    
+}
+
+#rpass{
+    width: 70%;
+    height:5%;
+    
+}
+
+#lname{
+    height:5%;
+    
+}
+
+#fname{
+    height:5%;
+    
+}
+
+
+
+
+
+
+
+
+
